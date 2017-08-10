@@ -1,7 +1,7 @@
 amylum/builder
 =======
 
-[![Automated Build](http://img.shields.io/badge/automated-build-green.svg)](https://hub.docker.com/r/amylum/builder/)
+[![Automated Build](https://img.shields.io/docker/build/amylum/builder.svg)](https://hub.docker.com/r/amylum/builder/)
 [![MIT Licensed](http://img.shields.io/badge/license-MIT-green.svg)](https://tldrlegal.com/license/mit-license)
 
 Build container for creating and uploading Archlinux packages to [my repo](https://github.com/amylum/repo)
