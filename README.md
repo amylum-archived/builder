@@ -1,3 +1,5 @@
+**Inactive Project:** I've stopped using this project in favor of using CircleCI to build packages
+
 amylum/builder
 =======
 
